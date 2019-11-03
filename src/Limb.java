@@ -20,4 +20,6 @@ public class Limb {
         lin.all_data("Кабан", "Петр",23 , "Бардовый ", 16 , "М");
         System.out.println(lin.getAll_data());
     }
+
+    //tft
 }
